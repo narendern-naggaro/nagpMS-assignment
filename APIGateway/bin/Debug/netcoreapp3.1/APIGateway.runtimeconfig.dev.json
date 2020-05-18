@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\narender\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\narender\\.nuget\\packages"
+    ]
+  }
+}
